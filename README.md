@@ -27,7 +27,7 @@ To get started with Paint For Kids, follow these steps:
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone 
+    git clone https://github.com/MohamedYousefCS/Paint-for-Kids.git
     ```
 2. Open the project in your preferred IDE supporting C++ development.
 3. Build and run the application.
